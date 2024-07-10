@@ -1,0 +1,4270 @@
+{
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 250,
+            "unit": "ml",
+            "details": "EDT"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": 50,
+        "unit": "g",
+        "type": "EDP"
+      }
+    },
+    {
+      "name": "Albania",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 250,
+            "unit": "ml",
+            "details": "EDT"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": 50,
+        "unit": "ml",
+        "type": "EDP"
+      }
+    },
+    {
+      "name": "Algeria",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "options": [
+          {
+            "amount": 50,
+            "unit": "ml",
+            "type": "perfume"
+          },
+          {
+            "amount": 250,
+            "unit": "ml",
+            "type": "EDT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Angola",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 400,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 0,
+          "unit": ""
+        },
+        "loose": {
+          "amount": 500,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 50,
+            "unit": "ml",
+            "details": "TDE"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": 250,
+        "unit": "ml",
+        "type": "EDT"
+      }
+    },
+    {
+      "name": "Australia",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 25,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 25,
+          "unit": "g"
+        },
+        "loose": {
+          "amount": 25,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2.25,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": "Included in the overall value limit of A$900"
+      },
+      "other": {
+        "value_limit": {
+          "amount": 900,
+          "currency": "AUD"
+        }
+      }
+    },
+    {
+      "name": "Austria",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 16,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": "Included in the overall value limit of €430"
+      },
+      "other": {
+        "value_limit": {
+          "amount": 430,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "name": "Azerbaijan",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 0,
+          "unit": ""
+        },
+        "loose": {
+          "amount": 0,
+          "unit": ""
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 0,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 800,
+            "unit": "US$",
+            "details": "value"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": "Included in the overall value limit of US$800"
+      }
+    },
+    {
+      "name": "Bahrain",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 400,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 0,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": "No specific information available"
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 225,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 250,
+            "unit": "ml",
+            "details": null
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": "No specific information available"
+      }
+    },
+    {
+      "name": "Belarus",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 0,
+          "unit": ""
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 3,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 3,
+            "unit": "L",
+            "details": null
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": "Included in the overall value limit of €1500"
+      },
+      "other": {
+        "amount": 1500,
+        "unit": "€",
+        "type": "value weighing no more than 50kg"
+      }
+    },
+    {
+      "name": "Belgium",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 16,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "> 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "< 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": 430,
+        "unit": "€",
+        "type": "value"
+      }
+    },
+    {
+      "name": "Benin",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 0,
+          "unit": ""
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": null
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": 0,
+        "unit": "",
+        "type": ""
+      }
+    },
+    {
+      "name": "Bhutan",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 0,
+          "unit": ""
+        },
+        "cigars": {
+          "amount": 0,
+          "unit": ""
+        },
+        "loose": {
+          "amount": 0,
+          "unit": ""
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Bolivia",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 3,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": null
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": 0,
+        "unit": "",
+        "type": ""
+      }
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 2,
+            "unit": "L",
+            "details": "up to 22%"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": 0,
+        "unit": "",
+        "type": ""
+      }
+    },
+    {
+      "name": "Botswana",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 20,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 2,
+            "unit": "L",
+            "details": null
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": 50,
+        "unit": "ml",
+        "type": "EDT"
+      }
+    },
+    {
+      "name": "Brazil",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 25,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 2,
+            "unit": "L",
+            "details": null
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": 0,
+        "unit": "",
+        "type": ""
+      }
+    },
+    {
+      "name": "Brunei",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 0,
+          "unit": ""
+        },
+        "cigars": {
+          "amount": 0,
+          "unit": ""
+        },
+        "loose": {
+          "amount": 0,
+          "unit": ""
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 0,
+          "unit": ""
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Bulgaria",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 2,
+            "unit": "L",
+            "details": "up to 22%"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": 0,
+        "unit": "",
+        "type": ""
+      }
+    },
+    {
+      "name": "Burkina Faso",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 0,
+          "unit": ""
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": 0,
+        "unit": "",
+        "type": ""
+      }
+    },
+    {
+      "name": "Burundi",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 0,
+          "unit": ""
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": 0,
+        "unit": "",
+        "type": ""
+      }
+    },
+    {
+      "name": "Canada",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 200,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 8.5,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1.14,
+            "unit": "L",
+            "details": null
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": "Reasonable quantity",
+        "type": null
+      }
+    },
+    {
+      "name": "Central African Republic",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 1000,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 250,
+          "unit": "cigars",
+          "note": "only for men"
+        },
+        "loose": {
+          "amount": 2000,
+          "unit": "g",
+          "note": "only for men"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 5,
+          "unit": "bottles"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null
+      }
+    },
+    {
+      "name": "China",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 400,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 100,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 500,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1.5,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": "Personal use",
+        "type": null
+      }
+    },
+    {
+      "name": "Cote D'Ivoire",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 25,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "bottle"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": 75,
+        "unit": "ml",
+        "type": "EDP"
+      }
+    },
+    {
+      "name": "Croatia",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 16,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22%"
+          },
+          {
+            "type": "wine",
+            "amount": 2,
+            "unit": "L",
+            "details": "less than 22%"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": "HRK 3,200",
+        "type": "value"
+      }
+    },
+    {
+      "name": "Cyprus",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 16,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22%"
+          },
+          {
+            "type": "wine",
+            "amount": 2,
+            "unit": "L",
+            "details": "less than 22%"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null
+      }
+    },
+    {
+      "name": "Czech Republic",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 16,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22%"
+          },
+          {
+            "type": "wine",
+            "amount": 2,
+            "unit": "L",
+            "details": "less than 22%"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null
+      }
+    },
+    {
+      "name": "Denmark",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 16,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": ">22%"
+          },
+          {
+            "type": "wine_beer",
+            "amount": 2,
+            "unit": "L",
+            "details": "<22%"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Egypt",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 25,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 200,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "notes": "Personal use"
+      }
+    },
+    {
+      "name": "Estonia",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 16,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "other": {
+        "value_limit": {
+          "amount": 430,
+          "currency": "EUR"
+        }
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Ethiopia",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 100,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Eritrea",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 400,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Finland",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 16,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "other": {
+        "value_limit": {
+          "amount": 430,
+          "currency": "EUR"
+        }
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "France",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 16,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "other": {
+        "value_limit": {
+          "amount": 430,
+          "currency": "EUR"
+        }
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Germany",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 16,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": "Included in the overall value limit of €430"
+      },
+      "other": {
+        "value_limit": {
+          "amount": 430,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "name": "Ghana",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Greece",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": null,
+          "unit": null
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Georgia",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 400,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": null,
+          "unit": null
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Guinea",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 1000,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 250,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 1,
+          "unit": "kg"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": null,
+          "unit": null
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Hong Kong",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 19,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 1,
+          "unit": "cigar"
+        },
+        "loose": {
+          "amount": 25,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      },
+      "notes": "Tobacco allowances are 'less than' the specified amounts"
+    },
+    {
+      "name": "Hungary",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 16,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      },
+      "other": {
+        "value_limit": {
+          "amount": 430,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "name": "India",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 100,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 25,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 125,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Indonesia",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 200,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Iran",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 0,
+          "unit": "L"
+        },
+        "options": [],
+        "notes": "Prohibited"
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Iraq",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 10,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 8,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": null
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Ireland",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 16,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      },
+      "other": {
+        "value_limit": {
+          "amount": 430,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "name": "Italy",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 16,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      },
+      "other": {
+        "value_limit": {
+          "amount": 430,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "name": "Japan",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 400,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 100,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 500,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 3,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": 2,
+        "unit": "ounces",
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Jordan",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "loose": {
+          "amount": 200,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      },
+      "other": {
+        "value_limit": {
+          "amount": 70,
+          "currency": "JOD"
+        }
+      }
+    },
+    {
+      "name": "Kazakhstan",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 200,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 3,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Kenya",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Kosovo",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": null,
+          "unit": null
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol (liqueurs, fortified or sparkling wine)"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Kuwait",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 500,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": null,
+          "unit": null
+        },
+        "loose": {
+          "amount": 900,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 0,
+          "unit": "L"
+        },
+        "options": [],
+        "notes": "Prohibited"
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": "Prohibited"
+      }
+    },
+    {
+      "name": "Kyrgyzstan",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 3,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Latvia",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 4,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Lebanon",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 800,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 1,
+          "unit": "kg"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 4,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "alternative option"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Liberia",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 25,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Libya",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 250,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 0,
+          "unit": "L"
+        },
+        "options": [],
+        "notes": "Prohibited"
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": "Prohibited"
+      }
+    },
+    {
+      "name": "Lithuania",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 4,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Luxembourg",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 4,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Macedonia",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Malawi",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 250,
+          "unit": "g"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Malaysia",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "loose": {
+          "amount": 225,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      },
+      "other": {
+        "value_limit": {
+          "amount": 1000,
+          "currency": "MYR"
+        }
+      }
+    },
+    {
+      "name": "Maldives",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 25,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 0,
+          "unit": "L"
+        },
+        "options": [],
+        "notes": "Prohibited"
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      },
+      "other": {
+        "value_limit": {
+          "amount": 6000,
+          "currency": "MVR"
+        }
+      }
+    },
+    {
+      "name": "Malta",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 4,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      },
+      "other": {
+        "value_limit": {
+          "amount": 430,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "name": "Mauritius",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 250,
+          "unit": "g"
+        },
+        "cigars": {
+          "amount": 250,
+          "unit": "g"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": null
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Moldova",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Montenegro",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 4,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "wine",
+            "amount": 4,
+            "unit": "L",
+            "details": "non-sparkling"
+          },
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "up to 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Morocco",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 400,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Myanmar",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 400,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Nepal",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 20,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Netherlands",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 4,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      },
+      "other": {
+        "value_limit": {
+          "amount": 430,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "name": "New Zealand",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 50,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "g"
+        },
+        "loose": {
+          "amount": 50,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 4.5,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1.125,
+            "unit": "L",
+            "details": null
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      },
+      "other": {
+        "value_limit": {
+          "amount": 700,
+          "currency": "NZD"
+        }
+      }
+    },
+    {
+      "name": "Nigeria",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 200,
+          "unit": "g"
+        },
+        "loose": {
+          "amount": 200,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Norway",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 250,
+          "unit": "g"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2.5,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "beer",
+            "amount": 1.5,
+            "unit": "L",
+            "details": "less than 22% volume"
+          },
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% volume"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      },
+      "other": {
+        "value_limit": {
+          "amount": 6000,
+          "currency": "NOK"
+        }
+      }
+    },
+    {
+      "name": "Oman",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 400,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "notes": "Reasonable quantity"
+        },
+        "loose": {
+          "notes": "Reasonable quantity"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Pakistan",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 500,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 0,
+          "unit": "L"
+        },
+        "options": [],
+        "notes": "Prohibited"
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Philippines",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 2,
+          "unit": "cartons"
+        },
+        "loose": {
+          "amount": 2,
+          "unit": "tins"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      },
+      "other": {
+        "value_limit": {
+          "amount": 10000,
+          "currency": "PHP"
+        }
+      }
+    },
+    {
+      "name": "Poland",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 4,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Portugal",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 4,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Qatar",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 400,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 20,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 500,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 0,
+          "unit": "L"
+        },
+        "options": [],
+        "notes": "Prohibited"
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Russia",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 3,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Romania",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 4,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Rwanda",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 250,
+          "unit": "g"
+        },
+        "cigars": {
+          "amount": 250,
+          "unit": "g"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": null
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 24,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 500,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 0,
+          "unit": "L"
+        },
+        "options": [],
+        "notes": "Prohibited"
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": "Prohibited"
+      }
+    },
+    {
+      "name": "Senegal",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "bottle"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Serbia",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Seychelles",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Singapore",
+      "tobacco": {
+        "cigarettes": {
+          "amount": null,
+          "unit": null
+        },
+        "cigars": {
+          "amount": null,
+          "unit": null
+        },
+        "loose": {
+          "amount": null,
+          "unit": null
+        },
+        "notes": "Nil"
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Slovakia",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 4,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Slovenia",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 4,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Somalia",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 400,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 40,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 400,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "bottle"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "South Africa",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 20,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": null
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "South Korea",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "bottle"
+        },
+        "options": [],
+        "details": "up to 1L"
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Spain",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 4,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Sudan",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 450,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 0,
+          "unit": "L"
+        },
+        "options": [],
+        "notes": "Prohibited"
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Sri Lanka",
+      "tobacco": {
+        "cigarettes": {
+          "amount": null,
+          "unit": null
+        },
+        "cigars": {
+          "amount": null,
+          "unit": null
+        },
+        "loose": {
+          "amount": null,
+          "unit": null
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 250,
+          "unit": "ml"
+        },
+        "options": [],
+        "type": "EDT"
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Sweden",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 4,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 22% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 22% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Switzerland",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 250,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 3,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 15% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 15% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      },
+      "other": {
+        "value_limit": {
+          "amount": 300,
+          "currency": "CHF"
+        }
+      }
+    },
+    {
+      "name": "Syria",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 25,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 570,
+          "unit": "ml"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Taiwan",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 25,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 454,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      },
+      "other": {
+        "value_limit": {
+          "amount": 20000,
+          "currency": "TWD",
+          "notes": "Personal use"
+        }
+      }
+    },
+    {
+      "name": "Tajikistan",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 100,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 500,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Tanzania",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 250,
+          "unit": "g"
+        },
+        "cigars": {
+          "amount": 250,
+          "unit": "g"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Thailand",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 250,
+          "unit": "g"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Tunisia",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 500,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 3,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": "over 25% alcohol"
+          },
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "under 25% alcohol"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Turkey",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 200,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "other",
+            "amount": 700,
+            "unit": "ml",
+            "details": "alternative option"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Turkmenistan",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "loose": {
+          "amount": 200,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2,
+          "unit": "L"
+        },
+        "options": [],
+        "notes": "For individuals over 21 years old"
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "UAE (Dubai)",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 400,
+          "unit": "cigarettes"
+        },
+        "loose": {
+          "amount": 2,
+          "unit": "kg"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 4,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      },
+      "other": {
+        "value_limit": {
+          "amount": 3000,
+          "currency": "AED"
+        },
+        "notes": "Personal use up to AED 3,000"
+      }
+    },
+    {
+      "name": "Uganda",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 250,
+          "unit": "g"
+        },
+        "cigars": {
+          "amount": 250,
+          "unit": "g"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": null
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "UK",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 64,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "beer",
+            "amount": 42,
+            "unit": "L",
+            "details": null
+          },
+          {
+            "type": "wine",
+            "amount": 18,
+            "unit": "L",
+            "details": "still"
+          },
+          {
+            "type": "spirits",
+            "amount": 4,
+            "unit": "L",
+            "details": "with vol. above 22%"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": "Included in the overall value limit of £390"
+      },
+      "other": {
+        "value_limit": {
+          "amount": 390,
+          "currency": "GBP"
+        }
+      }
+    },
+    {
+      "name": "Ukraine",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 50,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 250,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1,
+            "unit": "L",
+            "details": null
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "USA",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 100,
+          "unit": "cigars"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 1,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": "Included in the overall value limit of US$100"
+      },
+      "other": {
+        "value_limit": {
+          "amount": 100,
+          "currency": "USD",
+          "notes": "Value limit"
+        }
+      }
+    },
+    {
+      "name": "Uzbekistan",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": null,
+          "unit": null
+        },
+        "loose": {
+          "amount": null,
+          "unit": null
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Vietnam",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 200,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 100,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 500,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2.5,
+          "unit": "L"
+        },
+        "options": []
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      },
+      "other": {
+        "value_limit": {
+          "amount": 1000,
+          "currency": "USD",
+          "notes": "Value up to"
+        }
+      }
+    },
+    {
+      "name": "Yemen",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 600,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 60,
+          "unit": "cigars"
+        },
+        "loose": {
+          "amount": 450,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2,
+          "unit": "bottles"
+        },
+        "options": [],
+        "notes": "Or 2 bottles"
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Zambia",
+      "tobacco": {
+        "cigarettes": {
+          "amount": 400,
+          "unit": "cigarettes"
+        },
+        "cigars": {
+          "amount": 500,
+          "unit": "g"
+        },
+        "loose": {
+          "amount": 500,
+          "unit": "g"
+        }
+      },
+      "alcohol": {
+        "total": {
+          "amount": 2.5,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "spirits",
+            "amount": 1.5,
+            "unit": "L",
+            "details": null
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      }
+    },
+    {
+      "name": "Zimbabwe",
+      "tobacco": {
+        "cigarettes": {
+          "amount": null,
+          "unit": null
+        },
+        "cigars": {
+          "amount": null,
+          "unit": null
+        },
+        "loose": {
+          "amount": null,
+          "unit": null
+        },
+        "notes": "No specific allowance information available"
+      },
+      "alcohol": {
+        "total": {
+          "amount": 5,
+          "unit": "L"
+        },
+        "options": [
+          {
+            "type": "other",
+            "amount": 2,
+            "unit": "L",
+            "details": "below 22% volume"
+          },
+          {
+            "type": "spirits",
+            "amount": 1.5,
+            "unit": "L",
+            "details": "over 22% volume"
+          }
+        ]
+      },
+      "perfumes": {
+        "amount": null,
+        "unit": null,
+        "type": null,
+        "notes": null
+      },
+      "other": {
+        "notes": "Other 3L or value up to VND 10,000,000"
+      }
+    }
+  ]
+}
