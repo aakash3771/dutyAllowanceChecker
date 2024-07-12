@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaEnvelope, FaLinkedin, FaGithub } from 'react-icons/fa';
+import { FaEnvelope, FaLinkedin } from 'react-icons/fa';
 
 const Contact = () => {
   return (
@@ -13,14 +13,13 @@ const Contact = () => {
         <h3>Let's Connect!</h3>
         <p>I'm always interested in new opportunities and collaborations. If you'd like to discuss a project or just say hello, feel free to reach out!</p>
         <div className="contact-links">
-          <a href="mailto:aakashji@outlook.com" className="contact-link">
+          <a href="mailto:aakashji@outlook.com" className="contact-link contact-links">
             <FaEnvelope /> aakashji@outlook.com
           </a>
-          <a href="https://www.linkedin.com/in/aakashgupta-/" target="_blank" rel="noopener noreferrer" className="contact-link">
+          <br></br>
+          <br></br>
+          <a href="https://www.linkedin.com/in/aakashgupta-/" target="_blank" rel="noopener noreferrer" className="contact-link contact-links">
             <FaLinkedin /> LinkedIn Profile
-          </a>
-          <a href="https://github.com/aakash3771/dutyAllowanceChecker/issues" target="_blank" rel="noopener noreferrer" className="contact-link">
-            <FaGithub /> GitHub Project
           </a>
         </div>
       </div>

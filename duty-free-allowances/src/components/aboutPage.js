@@ -1,5 +1,4 @@
 import React from 'react';
-import { FaGithub } from 'react-icons/fa';
 
 const About = () => {
   return (
@@ -17,10 +16,6 @@ const About = () => {
         </ul>
         <p>The Duty-Free Allowances Checker is a reflection of my ability to think strategically about product development and user needs, showcasing how I can translate complex requirements into a straightforward, user-friendly concept.</p>
         <p>As I transition into product management, projects like this exemplify my commitment to envisioning products that are not only technically sound but also valuable and accessible to users. I'm excited to bring this blend of strategic thinking and user-focused approach to future product management roles.</p>
-        <p>You can view the project details and contribute on GitHub:</p>
-        <a href="https://github.com/aakash3771/dutyAllowanceChecker/issues" target="_blank" rel="noopener noreferrer" className="github-link">
-          <FaGithub /> View on GitHub
-        </a>
       </section>
     </div>
   );

@@ -230,23 +230,20 @@ footer {
 
     /* Footer Styles */
     footer {
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-start;
-      padding: 1rem;
       background-color: #333;
       color: white;
-      font-size: 0.9rem;
+      padding: 1rem;
+      text-align: center;
     }
 
     .footer-content {
-      flex-grow: 1;
+      font-size: 0.9rem;
     }
 
-    .visit-counter {
+    /* .visit-counter {
       margin-left: 1rem;
       font-weight: bold;
-    }
+    } */
 
     .form-container .react-select__control {
       margin-bottom: 1rem;
@@ -256,10 +253,15 @@ footer {
       margin-top: 5px;
     }
 
-    /* Contact Page Styles */
+    .contact-info,
+    .cta-section {
+      margin-bottom: 2rem;
+    }
+
     .contact-links {
       display: flex;
       flex-direction: column;
+      align-items: center;
       gap: 1rem;
       margin-top: 1rem;
     }
@@ -269,23 +271,11 @@ footer {
       align-items: center;
       gap: 0.5rem;
       text-decoration: none;
-      color: inherit;
-    }
-
-    .contact-link:hover {
-      text-decoration: underline;
-    }
-
-    .github-link {
-      display: inline-flex;
-      align-items: center;
-      gap: 0.5rem;
-      text-decoration: none;
       color: #007bff;
       font-weight: bold;
     }
 
-    .github-link:hover {
+    .contact-link:hover {
       text-decoration: underline;
     }
 }

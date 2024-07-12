@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import './App.css';
 import Home from './components/homePage';
@@ -6,14 +6,6 @@ import About from './components/aboutPage';
 import Contact from './components/contactPage';
 
 const App = () => {
-  const [visitCount, setVisitCount] = useState(0);
-
-  useEffect(() => {
-    const count = parseInt(localStorage.getItem('visitCount') || '0');
-    localStorage.setItem('visitCount', (count + 1).toString());
-    setVisitCount(count + 1);
-  }, []);
-
   return (
     <Router>
       <div className="app-container">
@@ -42,9 +34,6 @@ const App = () => {
             <div className="footer-content">
               <p>&copy; 2024 Duty-Free Allowances Checker. All rights reserved.</p>
               <p>Disclaimer: Information provided is for reference only. Please check with local customs for the most up-to-date regulations.</p>
-            </div>
-            <div className="visit-counter">
-              Visits: {visitCount}
             </div>
           </footer>
         </div>

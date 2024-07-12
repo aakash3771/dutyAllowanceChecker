@@ -42,6 +42,7 @@ const Home = () => {
           onChange={setSelectedCountry}
           placeholder="Select a country"
         />
+        <br />
         <button onClick={handleSubmit} disabled={!selectedCountry}>Check Allowances</button>
       </div>
       {allowances && <AllowancesDisplay allowances={allowances} />}
