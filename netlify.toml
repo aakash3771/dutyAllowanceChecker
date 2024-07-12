@@ -1,7 +1,10 @@
 [build]
   base = "duty-free-allowances"
   command = "npm run build"
-  publish = "duty-free-allowances/build"
+  publish = "build"
+
+[build.environment]
+  NODE_OPTIONS = "--openssl-legacy-provider"
 
 [[redirects]]
   from = "/*"
