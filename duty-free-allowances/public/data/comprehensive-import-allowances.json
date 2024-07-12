@@ -3122,8 +3122,8 @@
       },
       "alcohol": {
         "total": {
-          "amount": 0,
-          "unit": "L"
+          "amount": null,
+          "unit": null
         },
         "options": [],
         "notes": "Prohibited"

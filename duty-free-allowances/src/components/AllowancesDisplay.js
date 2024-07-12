@@ -55,4 +55,4 @@ const AllowancesDisplay = ({ allowances }) => {
   );
 };
 
-export default AllowancesDisplay; 
+export default AllowancesDisplay;

@@ -1,55 +1,45 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
+import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import './App.css';
-import AllowancesDisplay from './components/AllowancesDisplay';
+import Home from './components/homePage';
+import About from './components/aboutPage';
+import Contact from './components/contactPage';
 
 const App = () => {
-  const [countries, setCountries] = useState([]);
-  const [destinationCountry, setDestinationCountry] = useState('');
-  const [allowances, setAllowances] = useState(null);
-
-  useEffect(() => {
-    // Fetch countries from the JSON data
-    fetch('/data/comprehensive-import-allowances.json')
-      .then(response => response.json())
-      .then(data => {
-        setCountries(data.countries.map(country => country.name));
-      });
-  }, []);
-
-  const handleSubmit = () => {
-    // Fetch allowances for the destination country
-    fetch('/data/comprehensive-import-allowances.json')
-      .then(response => response.json())
-      .then(data => {
-        const countryData = data.countries.find(country => country.name === destinationCountry);
-        setAllowances(countryData);
-      });
-  };
-
   return (
-    <div className="app-container">
-      <div className="vertical-strip left"></div>
-      <div className="main-content">
-        <h1>Duty-Free Allowances</h1>
-        <div className="input-section">
-          <label>
-            Destination Country:
-            <select 
-              value={destinationCountry} 
-              onChange={e => setDestinationCountry(e.target.value)}
-            >
-              <option value="">Select a country</option>
-              {countries.map(country => (
-                <option key={country} value={country}>{country}</option>
-              ))}
-            </select>
-          </label>
-          <button onClick={handleSubmit}>Submit</button>
+    <Router>
+      <div className="app-container">
+        <div className="vertical-strip left">
+          {/* Space for Google Ads */}
         </div>
-        {allowances && <AllowancesDisplay allowances={allowances} />}
+        <div className="main-content">
+          <header>
+            <div className="logo">Duty-Free Checker</div>
+            <nav>
+              <ul>
+                <li><Link to="/">Home</Link></li>
+                <li><Link to="/about">About</Link></li>
+                <li><Link to="/contact">Contact</Link></li>
+              </ul>
+            </nav>
+          </header>
+          <main>
+            <Routes>
+              <Route path="/" element={<Home />} />
+              <Route path="/about" element={<About />} />
+              <Route path="/contact" element={<Contact />} />
+            </Routes>
+          </main>
+          <footer>
+            <p>&copy; 2024 Duty-Free Allowances Checker. All rights reserved.</p>
+            <p>Disclaimer: Information provided is for reference only. Please check with local customs for the most up-to-date regulations.</p>
+          </footer>
+        </div>
+        <div className="vertical-strip right">
+          {/* Space for Google Ads */}
+        </div>
       </div>
-      <div className="vertical-strip right"></div>
-    </div>
+    </Router>
   );
 };
 
