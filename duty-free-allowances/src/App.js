@@ -1,10 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-import AllowancesDisplay from './components/displayComp';
+import AllowancesDisplay from './components/AllowancesDisplay';
 
 const App = () => {
   const [countries, setCountries] = useState([]);
-  const [sourceCountry, setSourceCountry] = useState('');
   const [destinationCountry, setDestinationCountry] = useState('');
   const [allowances, setAllowances] = useState(null);
 
@@ -28,37 +27,28 @@ const App = () => {
   };
 
   return (
-    <div className="App">
-      <h1>Duty-Free Allowances</h1>
-      <div>
-        <label>
-          Source Country:
-          <select value={sourceCountry} onChange={e => setSourceCountry(e.target.value)}>
-            <option value="">Select a country</option>
-            {countries.map(country => (
-              <option key={country} value={country}>{country}</option>
-            ))}
-          </select>
-        </label>
-      </div>
-      <div>
-        <label>
-          Destination Country:
-          <select value={destinationCountry} onChange={e => setDestinationCountry(e.target.value)}>
-            <option value="">Select a country</option>
-            {countries.map(country => (
-              <option key={country} value={country}>{country}</option>
-            ))}
-          </select>
-        </label>
-      </div>
-      <button onClick={handleSubmit}>Submit</button>
-      {allowances && (
-        <div>
-          <h2>Allowances for {destinationCountry}</h2>
-          <AllowancesDisplay allowances={allowances} />
+    <div className="app-container">
+      <div className="vertical-strip left"></div>
+      <div className="main-content">
+        <h1>Duty-Free Allowances</h1>
+        <div className="input-section">
+          <label>
+            Destination Country:
+            <select 
+              value={destinationCountry} 
+              onChange={e => setDestinationCountry(e.target.value)}
+            >
+              <option value="">Select a country</option>
+              {countries.map(country => (
+                <option key={country} value={country}>{country}</option>
+              ))}
+            </select>
+          </label>
+          <button onClick={handleSubmit}>Submit</button>
         </div>
-      )}
+        {allowances && <AllowancesDisplay allowances={allowances} />}
+      </div>
+      <div className="vertical-strip right"></div>
     </div>
   );
 };

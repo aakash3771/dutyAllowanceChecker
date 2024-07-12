@@ -42,8 +42,17 @@ const AllowancesDisplay = ({ allowances }) => {
           {allowances.perfumes.notes && <p>Note: {allowances.perfumes.notes}</p>}
         </div>
       )}
+      {allowances.other && (
+        <div>
+          <h3>Other Allowances</h3>
+          {allowances.other.value_limit && (
+            <p>Value limit: {allowances.other.value_limit.amount} {allowances.other.value_limit.currency}</p>
+          )}
+          {allowances.other.notes && <p>Note: {allowances.other.notes}</p>}
+        </div>
+      )}
     </div>
   );
 };
 
-export default AllowancesDisplay;
+export default AllowancesDisplay; 

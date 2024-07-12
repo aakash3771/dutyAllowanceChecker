@@ -915,8 +915,8 @@
         ]
       },
       "perfumes": {
-        "amount": null,
-        "unit": "HRK 3,200",
+        "amount": "HRK 3,200",
+        "unit": null,
         "type": "value"
       }
     },
