@@ -1,17 +1,26 @@
 import React from 'react';
+import { FaGithub } from 'react-icons/fa';
 
 const About = () => {
   return (
     <div className="about-page">
-      <h1>About Me and This Project</h1>
-      <section className="about-me">
-        <h2>About Me</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-      </section>
+      <h1>About This Project</h1>
       <section className="about-project">
-        <h2>About This Project</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>Welcome to the Duty-Free Allowances Checker, a project designed to showcase my product management skills and my ability to conceptualize user-centric solutions. As an aspiring product manager with a strong background in software quality and automation, I envisioned this tool to address a common pain point for international travelers: understanding duty-free allowances.</p>
+        <p>This project demonstrates my ability to:</p>
+        <ul>
+          <li>Identify user needs and conceptualize practical solutions</li>
+          <li>Manage the product development process from idea to implementation</li>
+          <li>Integrate data from various sources into a user-friendly concept</li>
+          <li>Consider user experience in design and functionality decisions</li>
+          <li>Envision features that add value to the user's journey</li>
+        </ul>
+        <p>The Duty-Free Allowances Checker is a reflection of my ability to think strategically about product development and user needs, showcasing how I can translate complex requirements into a straightforward, user-friendly concept.</p>
+        <p>As I transition into product management, projects like this exemplify my commitment to envisioning products that are not only technically sound but also valuable and accessible to users. I'm excited to bring this blend of strategic thinking and user-focused approach to future product management roles.</p>
+        <p>You can view the project details and contribute on GitHub:</p>
+        <a href="https://github.com/aakash3771/dutyAllowanceChecker/issues" target="_blank" rel="noopener noreferrer" className="github-link">
+          <FaGithub /> View on GitHub
+        </a>
       </section>
     </div>
   );

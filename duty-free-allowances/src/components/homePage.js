@@ -1,26 +1,33 @@
 import React, { useState, useEffect } from 'react';
+import Select from 'react-select';
 import AllowancesDisplay from './AllowancesDisplay';
 
 const Home = () => {
   const [countries, setCountries] = useState([]);
-  const [destinationCountry, setDestinationCountry] = useState('');
+  const [selectedCountry, setSelectedCountry] = useState(null);
   const [allowances, setAllowances] = useState(null);
 
   useEffect(() => {
     fetch('/data/comprehensive-import-allowances.json')
       .then(response => response.json())
       .then(data => {
-        setCountries(data.countries.map(country => country.name));
+        const options = data.countries.map(country => ({
+          value: country.name,
+          label: country.name
+        }));
+        setCountries(options);
       });
   }, []);
 
   const handleSubmit = () => {
-    fetch('/data/comprehensive-import-allowances.json')
-      .then(response => response.json())
-      .then(data => {
-        const countryData = data.countries.find(country => country.name === destinationCountry);
-        setAllowances(countryData);
-      });
+    if (selectedCountry) {
+      fetch('/data/comprehensive-import-allowances.json')
+        .then(response => response.json())
+        .then(data => {
+          const countryData = data.countries.find(country => country.name === selectedCountry.value);
+          setAllowances(countryData);
+        });
+    }
   };
 
   return (
@@ -28,17 +35,14 @@ const Home = () => {
       <h1>Duty-Free Allowances Checker</h1>
       <div className="form-container">
         <label htmlFor="destination-country">Destination Country:</label>
-        <select 
+        <Select
           id="destination-country"
-          value={destinationCountry} 
-          onChange={e => setDestinationCountry(e.target.value)}
-        >
-          <option value="">Select a country</option>
-          {countries.map(country => (
-            <option key={country} value={country}>{country}</option>
-          ))}
-        </select>
-        <button onClick={handleSubmit}>Check Allowances</button>
+          options={countries}
+          value={selectedCountry}
+          onChange={setSelectedCountry}
+          placeholder="Select a country"
+        />
+        <button onClick={handleSubmit} disabled={!selectedCountry}>Check Allowances</button>
       </div>
       {allowances && <AllowancesDisplay allowances={allowances} />}
     </div>
